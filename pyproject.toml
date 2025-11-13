@@ -6,5 +6,4 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "akshare>=1.17.64",
-    "pynvim>=0.6.0",
 ]
